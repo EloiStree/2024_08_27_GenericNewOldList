@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.newoldoflist",                              
+  "displayName": "Generic New Old Element of List",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This tool will allows to find new and old element of a list more easily.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_08_27_GenericNewOldList.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
